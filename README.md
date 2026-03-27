@@ -37,9 +37,13 @@
   Limitless. No boundaries. Just code.
 ```
 
+[![Visitors](https://komarev.com/ghpvc/?username=SamueleOlindo&color=00e5ff&style=for-the-badge&label=VISITORS)](https://github.com/SamueleOlindo)
+&nbsp;
+[![Followers](https://img.shields.io/github/followers/SamueleOlindo?logo=github&style=for-the-badge&color=00e5ff&labelColor=000000)](https://github.com/SamueleOlindo)
+
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 <div align="center">
 
@@ -106,26 +110,32 @@
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 <div align="center">
 
 ## `┌──(stats㉿github)-[~/analytics]`
 
+<br/>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamueleOlindo&show_icons=true&hide_border=true&bg_color=000000&title_color=00e5ff&icon_color=00e5ff&text_color=7c8fff&ring_color=00e5ff" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamueleOlindo&layout=compact&hide_border=true&bg_color=000000&title_color=00e5ff&text_color=7c8fff" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=SamueleOlindo&hide_border=true&background=000000&ring=00e5ff&fire=7c8fff&currStreakLabel=00e5ff&sideLabels=00e5ff&currStreakNum=7c8fff&sideNums=7c8fff&dates=0d1b6e" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SamueleOlindo&hide_border=true&background=000000&ring=00e5ff&fire=7c8fff&currStreakLabel=00e5ff&sideLabels=00e5ff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SamueleOlindo&bg_color=000000&color=00e5ff&line=00e5ff&point=7c8fff&area_color=0d1b6e&area=true&hide_border=true&custom_title=%E2%94%94%E2%94%80%24%20git%20log%20--graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SamueleOlindo&bg_color=000000&color=ffffff&line=00e5ff&point=7c8fff&area_color=0d1b6e&area=true&hide_border=true&custom_title=%E2%94%94%E2%94%80%24%20git%20log%20--graph" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=SamueleOlindo&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%"/>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 <div align="center">
 
@@ -134,6 +144,7 @@
 <a href="https://linkedin.com/in/SamueleOlindo">
 <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
+&nbsp;&nbsp;
 <a href="https://github.com/SamueleOlindo">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff" />
 </a>

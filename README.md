@@ -141,7 +141,7 @@
 
 ## `┌──(connect㉿me)-[~/social]`
 
-<a href="https://linkedin.com/in/SamueleOlindo">
+<a href="https://www.linkedin.com/in/samuele-olindo-71465822a/">
 <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
 &nbsp;&nbsp;

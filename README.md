@@ -126,8 +126,6 @@
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=SamueleOlindo&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%"/>
-
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>

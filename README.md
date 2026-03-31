@@ -116,14 +116,7 @@
 
 ## `┌──(stats㉿github)-[~/analytics]`
 
-<br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamueleOlindo&show_icons=true&hide_border=true&bg_color=000000&title_color=00e5ff&icon_color=00e5ff&text_color=7c8fff&ring_color=00e5ff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamueleOlindo&layout=compact&hide_border=true&bg_color=000000&title_color=00e5ff&text_color=7c8fff" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=SamueleOlindo&hide_border=true&background=000000&ring=00e5ff&fire=7c8fff&currStreakLabel=00e5ff&sideLabels=00e5ff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" />
+<img src="https://readme-streak-stats-zeta.vercel.app/?user=SamueleOlindo&hide_border=true&background=000000&ring=00e5ff&fire=7c8fff&currStreakLabel=00e5ff&sideLabels=00e5ff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" />
 
 <br/><br/>
 

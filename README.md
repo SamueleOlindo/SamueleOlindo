@@ -116,6 +116,8 @@
 
 ## `┌──(stats㉿github)-[~/analytics]`
 
+<br/><br/>
+
 <img src="https://readme-streak-stats-zeta.vercel.app/?user=SamueleOlindo&hide_border=true&background=000000&ring=00e5ff&fire=7c8fff&currStreakLabel=00e5ff&sideLabels=00e5ff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" />
 
 <br/><br/>

@@ -26,9 +26,10 @@
 ┌──(samuele㉿olindo)-[~]
 └─$ cat /etc/profile
 
-  Role ........... Software Engineer
+  Role ........... AI Engineer  |  Software Engineer
   Location ....... Italy 🇮🇹
-  Stack .......... React | Next.js | TypeScript | Node.js | AWS
+  Focus .......... LLM Integration | RAG | Agents | Prompt Engineering
+  Stack .......... Python | LangChain | React | TypeScript | AWS
   Web3 ........... Solidity | Ethers.js
   Status ......... Available for collaboration
 
@@ -51,15 +52,24 @@
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" colspan="2">
 
-### `☁️ cloud`
-![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-![EC2](https://img.shields.io/badge/EC2-000000?style=for-the-badge&logo=amazonec2&logoColor=FF9900)
-![S3](https://img.shields.io/badge/S3-000000?style=for-the-badge&logo=amazons3&logoColor=569A31)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
+### `🤖 ai / llm engineering`
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=1C3C3C)
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-000000?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-000000?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-000000?style=for-the-badge)
+![Vector DBs](https://img.shields.io/badge/Vector_DBs-000000?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge)
+![Structured Output](https://img.shields.io/badge/Structured_Output-000000?style=for-the-badge)
+![Agents & Tool-use](https://img.shields.io/badge/Agents_%26_Tool--use-000000?style=for-the-badge)
+![Evaluation](https://img.shields.io/badge/Evaluation-000000?style=for-the-badge)
+![LLM Security](https://img.shields.io/badge/LLM_Security-000000?style=for-the-badge&logo=owasp&logoColor=ffffff)
 
 </td>
+</tr>
+<tr>
 <td align="center" width="50%">
 
 ### `⚛️ frontend`
@@ -74,8 +84,6 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
 
 </td>
-</tr>
-<tr>
 <td align="center" width="50%">
 
 ### `⚙️ backend & web3`
@@ -84,6 +92,17 @@
 ![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=00e5ff)
 ![Solidity](https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=solidity&logoColor=363636)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-000000?style=for-the-badge&logo=ethereum&logoColor=627EEA)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### `☁️ cloud`
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![EC2](https://img.shields.io/badge/EC2-000000?style=for-the-badge&logo=amazonec2&logoColor=FF9900)
+![S3](https://img.shields.io/badge/S3-000000?style=for-the-badge&logo=amazons3&logoColor=569A31)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
 
 </td>
 <td align="center" width="50%">
@@ -101,6 +120,8 @@
 </table>
 
 ### `└─$ practices --list`
+![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-000000?style=for-the-badge)
+![Prompt Injection](https://img.shields.io/badge/Prompt_Injection-000000?style=for-the-badge&logo=owasp)
 ![Agile](https://img.shields.io/badge/Agile%2FScrum-000000?style=for-the-badge)
 ![OWASP](https://img.shields.io/badge/OWASP_Security-000000?style=for-the-badge&logo=owasp)
 ![Code Review](https://img.shields.io/badge/Code_Review-000000?style=for-the-badge)
